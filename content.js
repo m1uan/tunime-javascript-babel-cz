@@ -1,0 +1,1 @@
+module.exports = 'Pozdrav z content.js'
